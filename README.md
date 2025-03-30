@@ -56,7 +56,7 @@ You can find the executable in the files just above !
 
 ### Example
 
-![image](https://github.com/user-attachments/assets/38185fd3-973a-4cd7-a34b-e19b6e6b6841)
+![image](https://github.com/user-attachments/assets/b235bff6-2a93-4053-9f30-90e9f6897b25)
 
 ## Code Structure
 
