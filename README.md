@@ -8,7 +8,6 @@ Connect Four is a classic board game where two players compete to be the first t
 
 - **Two-player mode**: Play against another player.
 - **Player name input**: Players can enter their names for a personalized experience.
-- **Dynamic grid size**: The game can be configured to use different grid sizes (default is 6 rows and 7 columns).
 - **Turn-based gameplay**: Players take turns dropping their pieces into the columns.
 - **Real-time board display**: The game board is displayed after each move, showing the current state of play.
 - **Win detection**: The game checks for horizontal, vertical, and diagonal wins.
