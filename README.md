@@ -56,7 +56,7 @@ You can find the executable in the files just above !
 
 ### Example
 
-![https://cdn.discordapp.com/attachments/1352320596658225297/1355941638106644490/image.png?ex=67eac28e&is=67e9710e&hm=64e43f1f1531c8d82c462762c911da4463185be2b77f3befe518fd9eb59b7533&]() 
+![image](https://github.com/user-attachments/assets/38185fd3-973a-4cd7-a34b-e19b6e6b6841)
 
 ## Code Structure
 
